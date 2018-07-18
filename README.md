@@ -1,3 +1,3 @@
 # getting-started-with-docker
 
-Commands performed in the ["Get Started with Docker for Windows" guide](https://docs.docker.com/docker-for-windows/#shared-drives).
+Resources created during the ["Get Started with Docker" guide](https://docs.docker.com/get-started).
